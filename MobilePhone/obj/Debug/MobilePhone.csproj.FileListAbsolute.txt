@@ -1,0 +1,6 @@
+c:\users\viktor\documents\visual studio 2013\Projects\OOPFirstPart\MobilePhone\bin\Debug\MobilePhone.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\OOPFirstPart\MobilePhone\obj\Debug\MobilePhone.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\OOPFirstPart\MobilePhone\bin\Debug\MobilePhone.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\OOPFirstPart\MobilePhone\bin\Debug\MobilePhone.pdb
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\OOPFirstPart\MobilePhone\obj\Debug\MobilePhone.exe
+C:\Users\Viktor\Documents\Visual Studio 2013\Projects\OOPFirstPart\MobilePhone\obj\Debug\MobilePhone.pdb
